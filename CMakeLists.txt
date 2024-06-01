@@ -5,7 +5,7 @@ if(" ${CMAKE_SOURCE_DIR}" STREQUAL " ${CMAKE_BINARY_DIR}")
     ")
 endif()
 
-cmake_minimum_required (VERSION 3.0)
+cmake_minimum_required (VERSION 3.5)
 project(LeetCode)
 
 set(Tutorial_VERSION_MAJOR 1)
